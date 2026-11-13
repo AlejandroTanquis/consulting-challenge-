@@ -1,0 +1,967 @@
+[{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103082172",
+  "reviewText": "Jack Black enthusiastically explaining how to craft a pickaxe is enough. Sometimes Jason Momoa getting chased by a creeper while wearing a pink leather jacket is cinema",
+  "originalScore": "3/4",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-12-08T14:13:14.000Z",
+  "updatedAt": "2025-12-08T14:13:14.000Z",
+  "reviewer": {
+    "name": "Aprillé Morris",
+    "imageUrl": "https://resizing.flixster.com/gQOo6PF0696z5eLpi6BDyLuv8bc=/128x128/v1.YzsxMDAwMDAyNzYxO3A7MjA3OTk7MjA0ODszNTc7MzU3"
+  },
+  "publication": {
+    "name": "OffColour.org"
+  },
+  "reviewUrl": "https://alwaysaprille.com/2025/04/11/a-minecraft-movie-when-brain-rot-becomes-box-office-gold/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103072905",
+  "reviewText": "Along the way there is cubist eye candy and colourful adventure for children, some blue innuendo for adults, and Jack Black’s absurdist singing for everyone.",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-11-05T00:47:59.000Z",
+  "updatedAt": "2025-11-05T00:47:59.000Z",
+  "reviewer": {
+    "name": "Anton Bitel",
+    "imageUrl": "https://resizing.flixster.com/goR4O_uLJGURZfCvv7u2j-QOz8I=/78x96/v1.YzsyMTgyO2o7MjA3OTA7MjA0ODs3ODs5Ng"
+  },
+  "publication": {
+    "name": "Sight & Sound",
+    "url": "http://www.bfi.org.uk/news-opinion/sight-sound-magazine/reviews-recommendations",
+    "imageUrl": "https://resizing.flixster.com/qvrUtjBmQ1QJTQNIGcp9rujYIjE=/180x180/v1.YzsxMDAwMDAzNzcxO2o7MjA3OTk7MjA0ODsxODA7MTgw"
+  },
+  "reviewUrl": "https://www.bfi.org.uk/sight-and-sound/reviews/minecraft-movie-videogame-block-buster-has-moments-cross-generational-joy",
+  "isTopCritic": true,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103060013",
+  "reviewText": "A chuckle here and there but focusing the story on the battles rather than the building and invention that set the game apart is a real lost opportunity for the masses of children that will see this.",
+  "originalScore": "2/4",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-09-24T23:14:40.000Z",
+  "updatedAt": "2025-09-24T23:14:40.000Z",
+  "reviewer": {
+    "name": "Erik Childress",
+    "imageUrl": "https://resizing.flixster.com/BULLSIUdkde7GuVl30arXbhBgdY=/128x128/v1.YzsxMDAwMDAzNDg0O2o7MjA3OTk7MjA0ODs0MDY7NDA2"
+  },
+  "publication": {
+    "name": "Movie Madness Podcast"
+  },
+  "reviewUrl": "https://erikthemovieman.substack.com/p/episode-551-with-friends-like-these-ef0",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103058603",
+  "reviewText": "There are five credited screenwriters here and it feels like a film that had five different passes.",
+  "originalScore": "47/100",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-09-20T20:37:45.000Z",
+  "updatedAt": "2025-09-20T20:37:45.000Z",
+  "reviewer": {
+    "name": "John Stark",
+    "imageUrl": "https://resizing.flixster.com/QeLxdHstwUoaTxhpuYw9BC5Hp4U=/128x128/v1.YzsxMDAwMDAzNDAxO2o7MjA3OTk7MjA0ODsxNTA4OzE1MDg"
+  },
+  "publication": {
+    "name": "Mac the Movie Guy"
+  },
+  "reviewUrl": "http://macthemovieguy.com/2025/05/30/a-minecraft-movie",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103042130",
+  "reviewText": "As I was clicking off a list of things I didn’t like about the movie, my daughter interrupted me, saying, “yeah, but it was fun.” I can’t argue with that: “A Minecraft Movie” is fun.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-08-04T08:48:12.000Z",
+  "updatedAt": "2025-08-04T08:48:12.000Z",
+  "reviewer": {
+    "name": "Lee Zumpe",
+    "imageUrl": "https://resizing.flixster.com/fJKzH9d5c_liYT-nCFvvIo43Eiw=/128x128/v1.YzsxMDAwMDAzMDQ4O2o7MjA3OTk7MjA0ODs3MTA7Njgz"
+  },
+  "publication": {
+    "name": "Tampa Bay Newspapers"
+  },
+  "reviewUrl": "https://www.tbnweekly.com/diversions/article_084b6bf5-7b0a-4ded-b820-55bf603faeef.html",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103040471",
+  "reviewText": "Whether you’ve never touched a controller or spent hours punching trees for wood, this film builds something special. Just don’t expect to leave without humming a Minecraft tune.",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-07-30T05:05:03.000Z",
+  "updatedAt": "2025-07-30T05:05:03.000Z",
+  "reviewer": {
+    "name": "Marissa Hill",
+    "imageUrl": "https://resizing.flixster.com/vuNaa5_vHsTJ637VoEXe62eoEEI=/128x128/v1.YzsxMDAwMDAzNDMyO2o7MjA3OTk7MjA0ODsxMzUwOzEzNTA"
+  },
+  "publication": {
+    "name": "Shade Studios"
+  },
+  "reviewUrl": "https://shadestudios.com/film-and-tv-reviews/f/a-minecraft-movie-review",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103039552",
+  "reviewText": "There’s a version of A Minecraft Movie that could’ve been brilliant.",
+  "originalScore": "3/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-07-27T20:45:47.000Z",
+  "updatedAt": "2025-07-27T20:45:47.000Z",
+  "reviewer": {
+    "name": "Joshua Tyler",
+    "imageUrl": "https://resizing.flixster.com/KsLjWRmD0FChrHKVqoL1ErXhMRQ=/128x128/v1.YzsxMDAwMDAzMTE1O3A7MjA3OTk7MjA0ODszMDA7MzAw"
+  },
+  "publication": {
+    "name": "Giant Freakin Robot"
+  },
+  "reviewUrl": "https://www.giantfreakinrobot.com/ent/minecraft-review.html",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103035528",
+  "reviewText": "At the end of the day, A Minecraft Movie is like the best kind of DIY project: it might be held together with duct tape and glitter, but it’s made with love—and that’s more than I can say for half the blockbusters out there.",
+  "originalScore": "6/10",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-07-18T02:57:17.000Z",
+  "updatedAt": "2025-07-18T02:57:17.000Z",
+  "reviewer": {
+    "name": "Codie Allen",
+    "imageUrl": "https://resizing.flixster.com/nV-zZWqyNZeBf8loejLznYECfjQ=/80x80/v1.YzsxMDAwMDAzODM4O3A7MjA3OTk7MjA0ODs4MDs4MA"
+  },
+  "publication": {
+    "name": "Geek Vibes Nation"
+  },
+  "reviewUrl": "https://geekvibesnation.com/a-minecraft-movie-review/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103033441",
+  "reviewText": "...this film is also a kind of homage to The Wizard of Oz (1939), which is also about a character who gets sucked into a magical land and has to find her way home.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-07-12T00:58:34.000Z",
+  "updatedAt": "2025-07-12T00:58:34.000Z",
+  "reviewer": {
+    "name": "Marlon Wallace",
+    "imageUrl": "https://resizing.flixster.com/DyMwRsbLothiT1AQHyZ0gXBL74I=/128x128/v1.YzsxMDAwMDAzNDA3O2o7MjA3OTk7MjA0ODsxMDgwOzEwODA"
+  },
+  "publication": {
+    "name": "The M Report (WBOC.com)"
+  },
+  "reviewUrl": "https://www.wboc.com/features/the_m_report/movie-review---a-minecraft-movie/article_06a80ecd-cba2-420d-936a-d1253444317c.html",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103033188",
+  "reviewText": "I was surprised at how funny it got, which led me to fall for numerous jokes that caught me off-guard, but would sometimes feel intense dread as Black kept singing, and the climax of this entire non-event is a beam that opens a portal in the sky.",
+  "originalScore": "2/5",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-07-11T20:45:38.000Z",
+  "updatedAt": "2025-07-11T20:45:38.000Z",
+  "reviewer": {
+    "name": "Maxance Vincent",
+    "imageUrl": "https://resizing.flixster.com/UHowZgAeG34iZlRy_EbSvX8-cU4=/128x128/v1.YzsxMDAwMDAzMzM5O3A7MjA3OTk7MjA0ODs1MDA7NTAw"
+  },
+  "publication": {
+    "name": "The Cinema Spot"
+  },
+  "reviewUrl": "https://www.thecinemaspot.com/2025/04/05/a-minecraft-movie-non-spoiler-review-uhhhhhhh/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103030683",
+  "reviewText": "A movie that is guilty of all video game adaptation sins... but, thankfully, Jack Black and Jason Momoa attempt to save the day.",
+  "originalScore": "3/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-07-02T18:51:07.000Z",
+  "updatedAt": "2025-07-02T18:51:09.000Z",
+  "reviewer": {
+    "name": "Shawn Edwards",
+    "imageUrl": "https://resizing.flixster.com/GPuUFTP2HDr1SRNrhZ0bIv3OoUA=/128x128/v1.YzszMzU3O2o7MjA3OTA7MjA0ODsxNzg4OzE3ODg"
+  },
+  "publication": {
+    "name": "Fox 4 Kansas City",
+    "url": "https://www.youtube.com/channel/UCBcu7y-Sqgx-X2ss3SpEu2A"
+  },
+  "reviewUrl": "https://www.youtube.com/watch?v=shvHC2nCtog&list=PLYIuAMO7HHjjMBXV3sEz6ssmoX3rvevyL&index=2",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103030146",
+  "reviewText": "A joyless, clumsy mess that does nothing to capture the magic of the phenomenon it’s based on. The film frequently confuses wacky antics for comedy and pop culture game references for story.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-06-30T20:56:51.000Z",
+  "updatedAt": "2025-06-30T20:56:51.000Z",
+  "reviewer": {
+    "name": "Louisa Moore",
+    "imageUrl": "https://resizing.flixster.com/8OQa1-P9Fvbo3Hv6Dr5HTeFaSZw=/128x128/v1.YzszMjIxO2o7MjA3OTA7MjA0ODszMDA7MzAw"
+  },
+  "publication": {
+    "name": "Screen Zealots",
+    "url": "https://screenzealots.com/"
+  },
+  "reviewUrl": "https://screenzealots.com/2025/06/18/a-minecraft-movie/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103029707",
+  "reviewText": "Here’s a money machine that, despite its bright CGI palette, feels oddly colorless.",
+  "originalScore": "2/4",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-06-28T17:25:38.000Z",
+  "updatedAt": "2025-06-28T17:25:38.000Z",
+  "reviewer": {
+    "name": "Matt Brunson",
+    "imageUrl": "https://resizing.flixster.com/FGXUBYQPkE-Ee02vom67FVIe-aA=/38x42/v1.YzsxNzI4O2o7MjA3OTA7MjA0ODszODs0Mg"
+  },
+  "publication": {
+    "name": "Film Frenzy",
+    "url": "https://thefilmfrenzy.com/"
+  },
+  "reviewUrl": "https://thefilmfrenzy.com/2025/06/27/view-from-the-couch-dr-who-the-daleks-novocaine-the-wiz-etc/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103029365",
+  "reviewText": "I acknowledge that this movie isn’t exactly for me. But I still see the appeal, much of which is wrapped up in the infectious enthusiasm of Jack Black",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-06-27T16:19:49.000Z",
+  "updatedAt": "2025-06-27T16:19:49.000Z",
+  "reviewer": {
+    "name": "Stephen Silver",
+    "imageUrl": "https://resizing.flixster.com/4dA9Shc4CIOkYjBmqtly3lR-uuY=/128x128/v1.YzsyNjA0O2c7MjA3OTA7MjA0ODsxNTA7MTUw"
+  },
+  "publication": {
+    "name": "The SS Ben Hecht"
+  },
+  "reviewUrl": "https://stephensilver.substack.com/p/i-am-steve-and-i-finally-saw-a-minecraft",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103027802",
+  "reviewText": "It may be appealing enough for young children and fans who are not expecting very much from it, but most others will likely be a little disappointed that they didn't try a little harder when it came to telling a more creative story.",
+  "originalScore": "3/5",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-06-23T10:15:15.000Z",
+  "updatedAt": "2025-06-23T10:15:15.000Z",
+  "reviewer": {
+    "name": "Jeff Beck",
+    "imageUrl": "https://resizing.flixster.com/Ft3NCIX7X-Hq7H4GsrSuQJ47e70=/38x42/v1.YzsyMzc2O2c7MjA3OTA7MjA0ODszODs0Mg"
+  },
+  "publication": {
+    "name": "The Blu Spot"
+  },
+  "reviewUrl": "https://www.thebluspot.com/single-post/a-minecraft-movie-a-lively-adaptation-in-want-of-a-more-creative-story-blu-ray",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103021785",
+  "reviewText": "Once our party heads into the Minecraft world, the formula begins to wear thin but the off-kilter humor works well throughout. If nothing else, it's much better than it needed to be and I appreciate the effort rather than just cashing a huge check.",
+  "originalScore": "B",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-05-29T15:27:17.000Z",
+  "updatedAt": "2025-05-29T15:27:17.000Z",
+  "reviewer": {
+    "name": "Brian Gill",
+    "imageUrl": "https://resizing.flixster.com/jaqcYnPoKZn9vJPVEMytrQFTrNg=/128x128/v1.YzszMTcxO2o7MjA3OTA7MjA0ODszMDA7MzAw"
+  },
+  "publication": {
+    "name": "Mad About Movies Podcast",
+    "url": "http://madaboutmoviespodcast.com/"
+  },
+  "reviewUrl": "https://madaboutmoviespodcast.com/episodes/2025/4/10/a-minecraft-movie",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103020127",
+  "reviewText": "Jack Black is pure pixelated chaos — and I mean that as a compliment.",
+  "originalScore": "3/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-05-23T14:27:28.000Z",
+  "updatedAt": "2025-05-23T14:27:28.000Z",
+  "reviewer": {
+    "name": "Gabriela Meza",
+    "imageUrl": "https://resizing.flixster.com/sVqL1vb6XuT5HN4b2us3Oyt4aNg=/128x128/v1.YzszNzYyO2o7MjA3OTA7MjA0ODszMDA7MzAw"
+  },
+  "publication": {
+    "name": "Fuera de Foco",
+    "url": "https://www.youtube.com/user/FueraDeFocoFRP"
+  },
+  "reviewUrl": "https://www.youtube.com/watch?v=QgURveNCSGI&t=450s",
+  "isTopCritic": false,
+  "language": "Spanish"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103017896",
+  "reviewText": "I admit to laughing out loud several times, at Coolidge’s loony line readings, and the moment when Black starts singing unprompted and Myers rolls her eyes and sighs like, oh god, not this again. ",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-05-16T18:13:56.000Z",
+  "updatedAt": "2025-05-16T18:13:56.000Z",
+  "reviewer": {
+    "name": "John Serba"
+  },
+  "publication": {
+    "name": "Decider",
+    "url": "http://decider.com/",
+    "imageUrl": "https://resizing.flixster.com/6SmaIHLbmZT5VcPrVe5rtlbt2-A=/256x256/v1.YzsxMDAwMDAzNjI4O2o7MjA3OTk7MjA0ODs0MDA7NDAw"
+  },
+  "reviewUrl": "https://decider.com/2025/05/16/a-minecraft-movie-streaming-movie-review/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103017727",
+  "reviewText": "While it might be slightly shrieky, this videogame adaptation, with its bright, buzzy palate and merry band of misfits, is a goofy way to pass time ",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-05-16T12:54:33.000Z",
+  "updatedAt": "2025-05-16T12:54:33.000Z",
+  "reviewer": {
+    "name": "Mini Anthikad-Chhibber",
+    "imageUrl": "https://resizing.flixster.com/AQgHZdauxNcbLL-rkzGoXkozjrc=/128x128/v1.YzsxMDAwMDAzMDYyO2o7MjA3OTk7MjA0ODs3OTY7OTIx"
+  },
+  "publication": {
+    "name": "The Hindu",
+    "url": "http://www.thehindu.com/entertainment/entertainment-cinema/",
+    "imageUrl": "https://resizing.flixster.com/AjdfVvPGQ5qPyYd007rGqHnHiJw=/256x256/v1.YzsxMDAwMDAzNzg5O2o7MjA3OTk7MjA0ODs0MDA7NDAw"
+  },
+  "reviewUrl": "https://www.thehindu.com/entertainment/movies/a-minecraft-movie-review-jason-momoa-and-jack-black-shine-in-this-silly-fun-yet-forgettable-adventure/article69412466.ece",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103015764",
+  "reviewText": "The real star of the show, and the only thing that makes A Minecraft Movie something other than an wildly successful corporate branding exercise, is Jack Black as Steve, one of the skins players can choose to represent themselves on the map.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-05-09T17:34:28.000Z",
+  "updatedAt": "2025-05-09T17:34:28.000Z",
+  "reviewer": {
+    "name": "Chris McCoy",
+    "imageUrl": "https://resizing.flixster.com/W_BLORmr9aCNnPu9q0qfRu_D8Os=/128x128/v1.YzszNTM2O2o7MjA3OTA7MjA0ODszMDA7MzAw"
+  },
+  "publication": {
+    "name": "Memphis Flyer"
+  },
+  "reviewUrl": "https://www.memphisflyer.com/a-minecraft-movie",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103015249",
+  "reviewText": "Surprisingly fun film that kids and teens will love. Full of in-game references and phrases, visually, this is an interesting experience. Momoa is a standout in a film that isn't great, but still offered a fun enough time at the movies",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-05-08T08:58:53.000Z",
+  "updatedAt": "2025-05-08T08:58:53.000Z",
+  "reviewer": {
+    "name": "Matt Hudson",
+    "imageUrl": "https://resizing.flixster.com/TlCwJ9WsVmGgN938Be9JY2tTspA=/128x128/v1.YzsxMDAwMDAzMjkwO2o7MjA3OTk7MjA0ODsyNTUzOzI1NTQ"
+  },
+  "publication": {
+    "name": "Bloody Awesome Movie Podcast"
+  },
+  "reviewUrl": "https://open.spotify.com/episode/6TJmXySptq0WMLWhnWiiUs?si=574562c1d95d4f5b",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103015157",
+  "reviewText": "Hess’ film contains some entertaining moments, occasional jolts of energy that break up the perfunctory one-liners and endless blur of lifeless explosions, but not enough to prevent the final experience from becoming utterly forgettable.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-05-07T19:19:42.000Z",
+  "updatedAt": "2025-05-08T14:29:43.000Z",
+  "reviewer": {
+    "name": "Tony Yang"
+  },
+  "publication": {
+    "name": "In Review Online",
+    "url": "http://inreviewonline.com/",
+    "imageUrl": "https://resizing.flixster.com/X1vVRHB6DnLyiYGOM6nHYaOMUKY=/256x256/v1.YzsxMDAwMDAzOTE4O3A7MjA3OTk7MjA0ODs4MDA7ODAw"
+  },
+  "reviewUrl": "https://inreviewonline.com/2025/04/25/a-minecraft-movie-review/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103014743",
+  "reviewText": "While it offers lots of visual wows and shout-outs to those in the know, the movie really works because of the absurd macho competitiveness-turned-bromance between Jack Black and Jason Momoa.",
+  "originalScore": "3/4",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-05-06T04:41:58.000Z",
+  "updatedAt": "2025-05-06T04:41:58.000Z",
+  "reviewer": {
+    "name": "James Kendrick",
+    "imageUrl": "https://resizing.flixster.com/uQ3u4S1RAedLuQWv4E1OIBZphBA=/128x128/v1.YzsyNTgxO2c7MjA3OTA7MjA0ODsxNTA7MTUw"
+  },
+  "publication": {
+    "name": "Q Network Film Desk"
+  },
+  "reviewUrl": "https://www.qnetwork.com/review/4791",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103013087",
+  "reviewText": "[T]he movie has a frenetic energy that feels like it can’t pause to let any moment or plot development breathe, lest the audience get bored.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-29T16:13:13.000Z",
+  "updatedAt": "2025-04-30T14:32:50.000Z",
+  "reviewer": {
+    "name": "David Chen",
+    "imageUrl": "https://resizing.flixster.com/zJTzVLBoXgkqm2jFELdCzyLf8gU=/128x128/v1.YzsxMDAwMDAzMjU2O2o7MjA3OTk7MjA0ODszMDAwOzMwMDA"
+  },
+  "publication": {
+    "name": "Decoding Everything"
+  },
+  "reviewUrl": "https://www.decodingeverything.com/p/a-minecraft-movie-review",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103012634",
+  "reviewText": "A manic minefield for Jack Black.",
+  "originalScore": "1 star",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-27T00:29:27.000Z",
+  "updatedAt": "2025-11-04T18:55:36.000Z",
+  "reviewer": {
+    "name": "Linda Cook",
+    "imageUrl": "https://resizing.flixster.com/-zCwy9RxtZlzZEWXPKigLUX9gSk=/128x128/v1.YzszODA3O2o7MjA3OTA7MjA0ODsyMjg1OzIyODU"
+  },
+  "publication": {
+    "name": "OurQuadCities / WHBF-TV (Illinois)",
+    "url": "https://www.ourquadcities.com/entertainment-news/"
+  },
+  "reviewUrl": "https://www.ourquadcities.com/news/local-news/cook-review-a-minecraft-movie-is-a-manic-minefield-for-jack-black/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103012581",
+  "reviewText": "At its core, A Minecraft Movie celebrates humanity’s creative spirit and explores what can happen when dreams are destroyed. It isn’t pixel-perfect, but it certainly does the iconic IP justice. ",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-26T20:03:48.000Z",
+  "updatedAt": "2025-04-27T14:32:09.000Z",
+  "reviewer": {
+    "name": "Julia Lennox",
+    "imageUrl": "https://resizing.flixster.com/kTpWpvD-2GCy3xaOQsIvrCG_xOc=/128x128/v1.YzsxMDAwMDAzMTU1O2o7MjA3OTk7MjA0ODsxMTYwOzE1NDQ"
+  },
+  "publication": {
+    "name": "That Shelf",
+    "url": "https://thatshelf.com/category/reviews/"
+  },
+  "reviewUrl": "https://thatshelf.com/a-minecraft-movie-review-absurd-adaptation-levels-up-family-fun/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103012558",
+  "reviewText": "...a bona fide failure that could only appeal to either hardcore fans of the source material or very young, very undiscriminating children.",
+  "originalScore": "1.5/4",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-26T17:59:50.000Z",
+  "updatedAt": "2025-04-26T17:59:50.000Z",
+  "reviewer": {
+    "name": "David Nusair",
+    "imageUrl": "https://resizing.flixster.com/9JGy1nm0d4tX5uOrpRAcsRU7How=/120x120/v1.YzsyMjk4O2c7MjA3OTA7MjA0ODsxMjA7MTIw"
+  },
+  "publication": {
+    "name": "Reel Film Reviews"
+  },
+  "reviewUrl": "https://reelfilm.com/a-minecraft-movie/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103011280",
+  "reviewText": "Very much like the world of Minecraft, this movie is a scattershot of admittedly cool ideas with forced connective tissue. This makes it schizophrenic.. It was a mess. A fun mess, sure, but a mess none-the-less.",
+  "originalScore": "3/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-23T04:47:42.000Z",
+  "updatedAt": "2025-04-23T04:47:42.000Z",
+  "reviewer": {
+    "name": "Kevin Carr",
+    "imageUrl": "https://resizing.flixster.com/et9c4x7ZH-ADluV0StqW38flXwM=/38x54/v1.YzsxNzQ3O2o7MjA3OTA7MjA0ODszODs1NA"
+  },
+  "publication": {
+    "name": "Fat Guys at the Movies"
+  },
+  "reviewUrl": "https://www.fatguysatthemovies.com/a-minecraft-movie-movie-review/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103010603",
+  "reviewText": "Older people will leave the cinema confused, but those who know something about the game will find a harmless experience that, in its opening scenes, displays an absurdist tone appropriate for the director of “Napoleon Dynamite”. [Full review in Spanish].",
+  "originalScore": "3/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-21T06:08:30.000Z",
+  "updatedAt": "2025-04-21T06:08:30.000Z",
+  "reviewer": {
+    "name": "Sebastian Zavala Kahn",
+    "imageUrl": "https://resizing.flixster.com/I8FUPTjKq-TMFtAqJ0XWNJ3a2j4=/128x128/v1.YzsxMDAwMDAzMjk3O2o7MjA3OTk7MjA0ODszMjE2OzMwOTY"
+  },
+  "publication": {
+    "name": "Me gusta el cine",
+    "url": "https://megustaelcine.com/"
+  },
+  "reviewUrl": "https://megustaelcine.com/critica-una-pelicula-de-minecraft-adaptando-y-construyendo/",
+  "isTopCritic": false,
+  "language": "Spanish"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103010250",
+  "reviewText": "While A Minecraft Movie doesn’t reinvent the genre, it lovingly crafts a fun, surprisingly thoughtful experience that feels true to the game’s spirit.",
+  "originalScore": "4.5/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-18T19:57:41.000Z",
+  "updatedAt": "2025-11-15T14:35:03.000Z",
+  "reviewer": {
+    "name": "Jay Hilotin"
+  },
+  "publication": {
+    "name": "Gulf News (UAE)",
+    "url": "http://gulfnews.com/leisure/movies/reviews",
+    "imageUrl": "https://resizing.flixster.com/tKmS9WvE2aRQbKfSDAzqbVa21Ug=/256x256/v1.YzsxMDAwMDAzNjY0O2o7MjA3OTk7MjA0ODszNjM7MzYz"
+  },
+  "reviewUrl": "https://gulfnews.com/technology/gaming/review-a-minecraft-movie-1.500084953",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103010039",
+  "reviewText": "A Minecraft Movie recaptures the innocence that Steven Spielberg has lost, especially in his own overwrought gamer film Ready Player One. Who could guess that a movie starring Jack Black would not be irritating?",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-17T23:46:50.000Z",
+  "updatedAt": "2025-04-18T14:30:12.000Z",
+  "reviewer": {
+    "name": "Armond White",
+    "imageUrl": "https://resizing.flixster.com/W1mPR1nqaMgFdREYeBkCcy0dRAw=/128x128/v1.YzsyNzk0O2c7MjA3OTA7MjA0ODsxNTA7MTUw"
+  },
+  "publication": {
+    "name": "National Review",
+    "imageUrl": "https://resizing.flixster.com/3WSyU7uY52XKexqQzpn5Ji7mR_w=/256x256/v1.YzsxMDAwMDAzNzE2O2o7MjA3OTk7MjA0ODs0MDA7NDAw"
+  },
+  "reviewUrl": "https://www.nationalreview.com/2025/04/a-minecraft-movie-fights-cultural-inertia-with-joy/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103009637",
+  "reviewText": "...\"A Minecraft Movie” is a profoundly empty, deeply dire experience, a hot trash pile of video game memes turned to life in hopes of exploiting popular I.P. and turning a buck.",
+  "originalScore": "D-",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-16T23:39:35.000Z",
+  "updatedAt": "2025-04-16T23:39:35.000Z",
+  "reviewer": {
+    "name": "Rodrigo Perez",
+    "imageUrl": "https://resizing.flixster.com/94Hrc-WdVSLSGP858LK-SeyTGAs=/128x128/v1.YzsyNzQzO2c7MjA3OTA7MjA0ODsxNTA7MTUw"
+  },
+  "publication": {
+    "name": "The Playlist",
+    "url": "http://theplaylist.net/category/reviews/",
+    "imageUrl": "https://resizing.flixster.com/vyoya6nvDLQo89rcghVUs8vT-Xg=/256x256/v1.YzsxMDAwMDAzODA1O2o7MjA3OTk7MjA0ODs0MDA7NDAw"
+  },
+  "reviewUrl": "https://theplaylist.net/a-minecraft-movie-review-brainrot-core-a-cultural-tipping-point-maybe-the-end-of-coherent-cinema-20250415/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103009461",
+  "reviewText": "In a world where movies based on video games do not often land, this one at least manages to level up.",
+  "originalScore": "3/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-16T16:09:07.000Z",
+  "updatedAt": "2025-04-16T16:09:07.000Z",
+  "reviewer": {
+    "name": "James Mottram"
+  },
+  "publication": {
+    "name": "South China Morning Post"
+  },
+  "reviewUrl": "https://www.scmp.com/lifestyle/entertainment/article/3304863/minecraft-movie-review-jack-black-jason-momoa-take-iconic-world-building-video-game",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103009265",
+  "reviewText": " The whole thing is so aggressively ridiculous, so proud of its own nonsense, it makes American economic policy look coherent by comparison.And yet … it works but only, only, if you embrace the chaos. ",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-15T21:24:22.000Z",
+  "updatedAt": "2025-04-15T21:24:22.000Z",
+  "reviewer": {
+    "name": "Dustin Rowles"
+  },
+  "publication": {
+    "name": "Pajiba",
+    "url": "http://www.pajiba.com/film_reviews/",
+    "imageUrl": "https://resizing.flixster.com/_YrVxuuBlzHkgeqJOjv24nidxWk=/256x256/v1.YzsxMDAwMDAzNzM3O2o7MjA3OTk7MjA0ODs0MDA7NDAw"
+  },
+  "reviewUrl": "https://www.pajiba.com/film_reviews/the-only-way-to-withstand-a-minecraft-movie-is-to-embrace-it.php",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103009238",
+  "reviewText": "The film’s anarchy might reflect a lot of younger players’ first experience with Minecraft, where destruction can be just as fun as creation. Missing on the big screen, meanwhile, is the odd, remote atmosphere that drew me in.",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-15T19:38:40.000Z",
+  "updatedAt": "2025-04-15T19:38:40.000Z",
+  "reviewer": {
+    "name": "David Sims",
+    "imageUrl": "https://resizing.flixster.com/albqw7RJAtC3kw4p1FhSNUK101A=/128x128/v1.YzsyNjA3O2c7MjA3OTA7MjA0ODsxNTA7MTUw"
+  },
+  "publication": {
+    "name": "The Atlantic",
+    "url": "http://www.theatlantic.com/category/film/",
+    "imageUrl": "https://resizing.flixster.com/mZyGRSCWcEDlzvbL00s66gLDywc=/256x256/v1.YzsxMDAwMDAzNzg1O2o7MjA3OTk7MjA0ODs0MDA7NDAw"
+  },
+  "reviewUrl": "https://www.theatlantic.com/culture/archive/2025/04/minecraft-movie-review-video-game/682407/",
+  "isTopCritic": true,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103009231",
+  "reviewText": "Overall, this is not a bad movie since the characters are all engaging. The actors turn in solid performances in this nonsensical story and make this movie tolerable. Art direction and production design are top notch. It's good looking harmless nonsense.",
+  "originalScore": "C",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-15T18:46:10.000Z",
+  "updatedAt": "2025-04-16T14:27:36.000Z",
+  "reviewer": {
+    "name": "Robert Roten",
+    "imageUrl": "https://resizing.flixster.com/ykPWzQIVWvYBmGVHdPG46wrv0mM=/80x80/v1.YzsxMDAwMDAzODg5O3A7MjA3OTk7MjA0ODs4MDs4MA"
+  },
+  "publication": {
+    "name": "Laramie Movie Scope"
+  },
+  "reviewUrl": "http://www.lariat.org/atthemovies/new/minecraft.html",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103009230",
+  "reviewText": "Minecraft, the movie, is a completely derivative product, a commercial with a stunning lack of imagination and whose sole objective is to make the most money... [Full review in Spanish]",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-15T18:44:41.000Z",
+  "updatedAt": "2025-04-16T14:27:38.000Z",
+  "reviewer": {
+    "name": "Alejandro Alemán",
+    "imageUrl": "https://resizing.flixster.com/pG-tmHXDmB4o2R97ncFxK85z9pM=/128x128/v1.YzsyNTEyO2c7MjA3OTA7MjA0ODsxNTI7MTY4"
+  },
+  "publication": {
+    "name": "El Universal",
+    "url": "https://www.rottentomatoes.com/eluniversal.com.mx",
+    "imageUrl": "https://resizing.flixster.com/FjV4uaTcUjSB6faQhF4kf1MzJrI=/246x205/v1.YzsxMDAwMDAzNjM3O2o7MjA3OTk7MjA0ODsyNDY7MjA1"
+  },
+  "reviewUrl": "https://www.eluniversal.com.mx/opinion/alejandro-aleman/minecraft-cine-de-influencers/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103008879",
+  "reviewText": " “A Minecraft Movie” is quirky and goofy enough to make one wish it held together better overall, but it’s also a likable venture.",
+  "originalScore": "2.5/4",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-14T13:32:10.000Z",
+  "updatedAt": "2025-04-14T13:32:10.000Z",
+  "reviewer": {
+    "name": "Brian Tallerico",
+    "imageUrl": "https://resizing.flixster.com/qJ3ycWJhwXLBySRdt5aP3JCPv7U=/128x128/v1.YzszNjUxO2o7MjA3OTA7MjA0ODs5NjA7OTYw"
+  },
+  "publication": {
+    "name": "RogerEbert.com",
+    "url": "http://www.rogerebert.com/"
+  },
+  "reviewUrl": "https://www.rogerebert.com/reviews/a-minecraft-movie-review-2025",
+  "isTopCritic": true,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103008788",
+  "reviewText": "A Minecraft Movie looks great, but it’s overproduced to the point of becoming repetitive and redundant.",
+  "originalScore": "C-",
+  "sentiment": "NEGATIVE",
+  "createdAt": "2025-04-13T17:39:15.000Z",
+  "updatedAt": "2025-04-13T17:39:15.000Z",
+  "reviewer": {
+    "name": "M.N. Miller",
+    "imageUrl": "https://resizing.flixster.com/_SLPjyCUoVGasB1vG3DR0QfMGSQ=/80x80/v1.YzsxMDAwMDAzMTA1O3A7MjA3OTk7MjA0ODs4MDs4MA"
+  },
+  "publication": {
+    "name": "InSession Film",
+    "url": "http://insessionfilm.com/movie-reviews/"
+  },
+  "reviewUrl": "https://insessionfilm.com/movie-review-a-minecraft-movie/",
+  "isTopCritic": false,
+  "language": "English"
+},
+{
+  "rowType": "review",
+  "title": "A Minecraft Movie",
+  "url": "https://www.rottentomatoes.com/m/a_minecraft_movie",
+  "mediaType": "movie",
+  "releaseYear": 2025,
+  "reviewType": "critic",
+  "reviewId": "103008757",
+  "reviewText": "While adults will get a laugh here and there throughout much of the action and humour here is aimed at the younger audience members. That isn’t necessarily a bad thing – especially if you are looking for a way to entertain the kids for a while.",
+  "originalScore": "2.5/5",
+  "sentiment": "POSITIVE",
+  "createdAt": "2025-04-13T03:31:53.000Z",
+  "updatedAt": "2025-04-13T03:31:53.000Z",
+  "reviewer": {
+    "name": "David Griffiths",
+    "imageUrl": "https://resizing.flixster.com/-pW1bI1Q_7scG-e4JWZUkGOfL3w=/128x128/v1.YzsxMDAwMDAzMDE5O2o7MjA3OTk7MjA0ODs0MDgwOzMwNjA"
+  },
+  "publication": {
+    "name": "Subculture Entertainment"
+  },
+  "reviewUrl": "https://subcultureentertainment.com/2025/04/film-review-a-minecraft-movie-review-2025/",
+  "isTopCritic": false,
+  "language": "English"
+}]
